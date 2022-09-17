@@ -8,9 +8,13 @@
 
 ![1](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/z1.png)
 
-2. Ustalić maskę podsieci.
+![2](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/z2.png)
 
-3. Na podstawie powyższych informacji przeskanować sieć i ustalić adres IP celu.
+![3](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/z3.png)
+
+![4](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/z4.png)
+
+![5](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/z5.png)
 
 ## Technologia: 
 
