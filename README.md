@@ -16,6 +16,8 @@
 
 ![5](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/z5.png)
 
+![6](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/z6.png)
+
 ## Technologia: 
 
 Jezyki Linux & Python
