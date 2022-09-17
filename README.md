@@ -6,20 +6,7 @@
 
 ## Cele projektu:
 
-Celem 1 modułu jest, ustalenie własnego adresu sieci, maski podsieci (w celu poznania wielkości
-sieci) oraz rozpoznanie urządzeń podpiętych do tej podsieci.
-Wszystkie te cele połączone zostały w jednej aplikacji.
-W pierwszej kolejności zaimportowaliśmy wszystkie konieczne moduły
-
-![1](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/1.png)
-
-ZADANIE 1:
-Ustalenia własnego adresu IP
-
-![1](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/2.png)
-
-Zmienna ip wyznaczana jest przez odczytanie adresu przydzielonego na port eth0, jeśli potrzebny jest inny port to wystarczy zmienić wartość
-eth0 na inną, która reprezentuje wybrane urządzenie sieciowe. Odczyt realizowany jest przez wykorzystanie biblioteki netifaces
+![1](https://github.com/Orinies/Projekt1---Linux-i-Python/blob/main/z1.png)
 
 2. Ustalić maskę podsieci.
 
